@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="docs/demo.gif" width="760" alt="Day 1: Claude is corrected on an e-mail signature and told about a deadline. Day 2: a new session starts and Claude already knows the deadline and what was left open.">
-  <br><sub>A real two-day run in this folder, shortened (<a href="dev/README.md">how it was made</a>). Day 2 is a brand-new session.</sub>
+  <br><sub>A real run in this folder, shortened (<a href="dev/README.md">how it was made</a>). "Day 2" is a brand-new session started right after the first one ended.</sub>
 </p>
 
 - **It remembers you.** Who you are, how you like answers, what it may do on its own and what it must ask about first.
