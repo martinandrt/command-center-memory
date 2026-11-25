@@ -1,0 +1,13 @@
+**TL;DR:** Both are saved and committed locally (`54c8218`): the signature rule is in `memory/feedback/sign-just-sam.md`, and the logo files for Acme are in `memory/commitments.md` with the deadline 2026-11-27. The corrected draft is below, still not sent.
+
+> Subject: Reminder: invoice [number], 1,200 EUR outstanding
+>
+> Hello [contact name],
+>
+> I'm writing with a friendly reminder that invoice [number] for 1,200 EUR, due on [due date], is still showing as unpaid. Could you let me know when I can expect payment, or whether anything is missing on your side to process it? If the payment has already gone out, please disregard this message, and thank you.
+>
+> Sam
+
+- **Signature rule:** I read "just 'Sam'" as also ruling out other closings such as "Kind regards" or "Thanks,", and noted that in the file as my interpretation. Tell me if you meant only "Best regards".
+- **Commitment:** the tracker now reports the logo files as due in 2 days, so every session start will flag it until it is done.
+- **Timing:** the reminder and the logo delivery go to the same client in the same week. You may want to send the reminder before handing over the final files on Friday, since the files are your leverage on the 1,200 EUR.

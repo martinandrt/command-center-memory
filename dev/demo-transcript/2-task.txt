@@ -1,0 +1,12 @@
+**TL;DR:** The draft is below, not sent; fill in the three bracketed details I don't have. Your name and role are in `memory/BRAIN.md` (committed locally, `61a860d`), and the rest of the interview is skipped.
+
+> Subject: Reminder: invoice [number], 1,200 EUR outstanding
+>
+> Hello [contact name],
+>
+> I'm writing with a friendly reminder that invoice [number] for 1,200 EUR, due on [due date], is still showing as unpaid. Could you let me know when I can expect payment, or whether anything is missing on your side to process it? If the payment has already gone out, please disregard this message, and thank you.
+>
+> Best regards,
+> Sam
+
+The tone is polite, as for a first reminder. If this is a repeat reminder, say so and I'll make it firmer with a concrete payment deadline.

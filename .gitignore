@@ -1,0 +1,30 @@
+# Secrets: never into git
+.env
+.env.*
+*.pem
+*.key
+
+# Working files of sessions (handoffs of work in progress, registry of running windows, lock)
+memory/.staging/
+memory/sessions-running.jsonl
+memory/.sessions.lock
+memory/.*.lock
+memory/.*.tmp
+memory/archive/sessions/.*.tmp
+memory/*.tmp
+
+# Optional semantic index (regenerable)
+memory/.index/
+
+# Python, system, editors
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Claude Code local files
+.claude/settings.local.json
+.claude/.cc-writes/

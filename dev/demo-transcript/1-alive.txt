@@ -1,0 +1,6 @@
+**Session 1, Potter.** First session: no previous handoff to continue from, and no other window is running.
+
+- Nothing unusual: git is clean (1 commit, "Initial skeleton") and the activity log is empty.
+- `memory/BRAIN.md` still has 6 unfilled placeholders. I can fill them in from a short interview (5 questions: your name and what the work is about, what to delegate, what you decide personally, how you want answers, and your hard limits including whether `git push` needs asking), or we can leave it for later.
+
+What are we working on?

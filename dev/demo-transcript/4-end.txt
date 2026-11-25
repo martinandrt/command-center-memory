@@ -1,0 +1,6 @@
+**Session 1 — Potter is closed.** Everything is committed locally (`d723a78`) and the working tree is clean; nothing was pushed, because no remote is configured.
+
+- **Written:** new `memory/feedback/sign-just-sam.md` (sign just "Sam"), your name and role in `memory/BRAIN.md`, and the handoff in `memory/LINEAGE.md`.
+- **Commitment still open:** final logo files to Acme by 2026-11-27. The next session start will flag it.
+- **Not saved:** the reminder draft exists only in this chat and was not sent. Copy it before closing the window if you want to keep it.
+- **Handoff:** the next session continues with the Acme logo delivery and the unpaid 1,200 EUR invoice; `BRAIN.md` still has 5 unfilled placeholders, so boot will offer the interview again.

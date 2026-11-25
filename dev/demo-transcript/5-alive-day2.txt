@@ -1,0 +1,7 @@
+Session 2, Egret, picking up after Potter; no other window is running and git is clean.
+
+- **Commitments:** SUMMARY: within 3 days 1. The final logo files for Acme are due 2026-11-27.
+- **Open from last time:** the Acme payment reminder (1,200 EUR) exists only in session 1's chat, still missing the invoice number, due date and contact name. I don't know whether you sent it.
+- **BRAIN:** still mostly unfilled. You skipped the interview last time; it is five short questions if you want to do it now.
+
+What are we working on?
